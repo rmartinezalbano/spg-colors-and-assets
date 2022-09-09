@@ -1,0 +1,32 @@
+{
+    "colors": {
+        "primary": "#001a74",
+        "secondary": "#0547fb",
+        "tertiary": "#0b1f6e",
+        "cuaternary": "#202c6b"
+    },
+    "images": {
+        "welcomeBackground": "https://drive.google.com/file/d/14ZiHepLM7bIrACucWKN5NpMNpepmZ-mr/view?usp=sharing",
+        "signinBackground": "https://supergirosmovil.com.co/assets/img/123.png"
+    },
+    "logos": {
+        "blueLogo": "https://supergirosmovil.com.co/assets/img/123.png",
+        "whiteLogo": "https://supergirosmovil.com.co/assets/img/123.png"
+    },
+    "icons": {
+        "confirmationIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "connectionProblemIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "errorIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "cloudIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "emptyIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "superGirosIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "beneficiaryIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "helpIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "contactIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "locationIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "movementsIcon": "https://supergirosmovil.com.co/assets/img/123.png",
+        "informationIcon1": "https://supergirosmovil.com.co/assets/img/123.png",
+        "informationIcon2": "https://supergirosmovil.com.co/assets/img/123.png",
+        "updatesIcon": "https://supergirosmovil.com.co/assets/img/123.png"
+    }
+}
