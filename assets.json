@@ -6,27 +6,27 @@
         "cuaternary": "#202c6b"
     },
     "images": {
-        "welcomeBackground": "https://github.com/rmartinezalbano/spg-colors-and-assets/blob/main/images/sign_in_background.jpg",
-        "signinBackground": "https://supergirosmovil.com.co/assets/img/123.png"
+        "welcomeBackground": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/images/welcome_background.jpg",
+        "signinBackground": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/images/sign_in_background.jpg"
     },
     "logos": {
-        "blueLogo": "https://supergirosmovil.com.co/assets/img/123.png",
-        "whiteLogo": "https://supergirosmovil.com.co/assets/img/123.png"
+        "blueLogo": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/logos/sp-logo-azul.png",
+        "whiteLogo": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/logos/sp-logo-blanco.png"
     },
     "icons": {
-        "confirmationIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "connectionProblemIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "errorIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "cloudIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "emptyIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "superGirosIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "beneficiaryIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "helpIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "contactIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "locationIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "movementsIcon": "https://supergirosmovil.com.co/assets/img/123.png",
-        "informationIcon1": "https://supergirosmovil.com.co/assets/img/123.png",
-        "informationIcon2": "https://supergirosmovil.com.co/assets/img/123.png",
-        "updatesIcon": "https://supergirosmovil.com.co/assets/img/123.png"
+        "confirmationIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/confirmation_icon.png",
+        "connectionProblemIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/connection_problem_icon.png",
+        "errorIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/error_icon.png",
+        "cloudIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icon-cloud.png",
+        "emptyIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icon-empty.png",
+        "superGirosIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icon-supergiros.png",
+        "beneficiaryIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icono_beneficiario.png",
+        "helpIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icono_consultas.png",
+        "contactIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icono_contacto.png",
+        "locationIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icono_donde_estamos.png",
+        "movementsIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icono_movimientos.png",
+        "informationIcon1": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/information_icon.png",
+        "informationIcon2": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/information_icon_2.png",
+        "updatesIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/updates_icon.png"
     }
 }
