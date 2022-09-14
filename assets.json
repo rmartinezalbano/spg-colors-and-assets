@@ -3,7 +3,7 @@
         "primary": "#fcba03",
         "secondary": "#fc0303",
         "tertiary": "#fc03ca",
-        "cuaternary": "#202c6b"
+        "quaternary": "#202c6b"
     },
     "images": {
         "welcomeBackground": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/images/welcome_background.jpg",
