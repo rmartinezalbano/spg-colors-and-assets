@@ -1,8 +1,8 @@
 {
     "colors": {
-        "primary": "#fcba03",
-        "secondary": "#fc0303",
-        "tertiary": "#fc03ca",
+        "primary": "#001974",
+        "secondary": "#0547fb",
+        "tertiary": "#0b1f6e",
         "quaternary": "#202c6b"
     },
     "images": {
@@ -28,5 +28,6 @@
         "informationIcon1": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/information_icon.png",
         "informationIcon2": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/information_icon_2.png",
         "updatesIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/updates_icon.png"
+        "betplayIcon": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/icons/icono_recarga_betplay.png"
     }
 }
