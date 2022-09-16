@@ -7,7 +7,7 @@
     },
     "images": {
         "welcomeBackground": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/images/welcome_background.jpg",
-        "signinBackground": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/images/sign_in_background.jpg"
+        "signInBackground": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/images/sign_in_background.jpg"
     },
     "logos": {
         "blueLogo": "https://raw.githubusercontent.com/rmartinezalbano/spg-colors-and-assets/main/logos/sp-logo-azul.png",
